@@ -1,0 +1,8 @@
+{
+    "name": "LpPrompts",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+      "langchain": "^1.0.0"
+    }
+  }
